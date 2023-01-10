@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">HelloKotlin</string>
+    <string name="my_intro">My name is Jason Tran and I want to learn Android with Kotlin and I like to play Escape From Tarkov</string>
+    <string name="say_hello">Say Hello!</string>
+</resources>
